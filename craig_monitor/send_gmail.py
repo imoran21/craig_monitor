@@ -3,7 +3,7 @@ import email
 
 from email.mime.text import MIMEText
 from settings import update_path
-from password_settings import email_passwor, fromaddr, toaddrd
+from password_settings import email_password, fromaddr, toaddr
 import json
 import datetime
 
