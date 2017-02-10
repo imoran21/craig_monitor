@@ -1,0 +1,4 @@
+*.pyc
+password_settings.py
+venv
+
